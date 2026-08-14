@@ -81,7 +81,7 @@ pallas-addresses = "0.35.0"
 pallas-codec = { version = "0.35.0", features = ["num-bigint"] }
 pallas-crypto = "0.35.0"
 pallas-primitives = "0.35.0"
-pallas-traverse = "0.35.0"
+pallas-traverse = "0.36.0"
 
 [profile.dev.package.insta]
 opt-level = 3
